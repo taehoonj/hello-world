@@ -1,4 +1,3 @@
 # hello-world
-hello!
 
-I will make it dad, I promise
+I will make it dad, I promise. Same applies for my mother and sister.
